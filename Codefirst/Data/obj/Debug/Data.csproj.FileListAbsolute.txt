@@ -10,3 +10,15 @@ c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Data\bin\Debug\E
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Data\obj\Debug\Data.dll
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Data\obj\Debug\Data.pdb
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\Data.dll.config
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\Data.dll
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\Data.pdb
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\Domain.dll
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\EntityFramework.dll
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\Domain.pdb
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\EntityFramework.xml
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\obj\Debug\Data.dll
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Data\obj\Debug\Data.pdb

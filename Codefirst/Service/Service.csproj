@@ -40,7 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgenceService.cs" />
+    <Compile Include="ClientService.cs" />
+    <Compile Include="ContratService.cs" />
+    <Compile Include="IAgenceService.cs" />
+    <Compile Include="IClientService.cs" />
+    <Compile Include="IContratService.cs" />
+    <Compile Include="IModelVoitureService.cs" />
+    <Compile Include="IVoitureService.cs" />
+    <Compile Include="ModeleVoitureService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VoitureService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Data\Data.csproj">
@@ -50,6 +60,10 @@
     <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{e07f7750-57dc-465a-9080-b1a7eb09d696}</Project>
       <Name>Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Service.Pattern\Service.Pattern.csproj">
+      <Project>{e626f8bd-434a-4659-a07b-d46e40dd5a48}</Project>
+      <Name>Service.Pattern</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

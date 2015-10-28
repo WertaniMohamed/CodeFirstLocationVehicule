@@ -3,3 +3,8 @@ c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Domain\bin\Debug
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Domain\obj\Debug\Domain.dll
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Domain\obj\Debug\Domain.pdb
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Domain\bin\Debug\Domain.dll
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Domain\bin\Debug\Domain.pdb
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Domain\obj\Debug\Domain.dll
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Domain\obj\Debug\Domain.pdb

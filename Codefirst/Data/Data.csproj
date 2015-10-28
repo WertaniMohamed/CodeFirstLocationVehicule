@@ -49,6 +49,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InfraStructure\DataBaseFactory.cs" />
+    <Compile Include="InfraStructure\Disposable.cs" />
+    <Compile Include="InfraStructure\IDataBaseFactory.cs" />
+    <Compile Include="InfraStructure\IRepositoryBase.cs" />
+    <Compile Include="InfraStructure\IRepositoryBaseAsync.cs" />
+    <Compile Include="InfraStructure\IUnitOfWork.cs" />
+    <Compile Include="InfraStructure\RepositoryBase.cs" />
+    <Compile Include="InfraStructure\UnitOfWork.cs" />
     <Compile Include="MyFinanceContext.cs" />
     <Compile Include="MyFinanceInitialisation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -62,6 +70,9 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

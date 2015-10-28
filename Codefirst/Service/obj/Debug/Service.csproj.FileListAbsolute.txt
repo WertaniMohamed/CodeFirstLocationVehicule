@@ -9,3 +9,6 @@ c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Service\bin\Debu
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Service\obj\Debug\Service.dll
 c:\users\leader\documents\visual studio 2015\Projects\Codefirst\Service\obj\Debug\Service.pdb
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Service\obj\Debug\Service.dll
+D:\Cours3Cinfo2\c#.net\Codefirst\Codefirst\Service\obj\Debug\Service.pdb
